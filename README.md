@@ -1,2 +1,3 @@
 # Rails Blog App
-Simple blog app made with Rails
+
+Simple CRUD Blog application made with Rails and styled with Bootstrap 4 for the purpose of gaining experience with the framework.
